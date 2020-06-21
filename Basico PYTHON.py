@@ -14,7 +14,7 @@ apellido="FERNANDEZ"
 print(nombre +" "+ apellido + " "+ ciudad)
 #%%
 
-presenta= "Mi nombre es {} y soy de la ciudad de {}".format(nombre,ciudad)
+presenta= "Mi nombre es {} y estoy en la ciudad de {}".format(nombre,ciudad)
 print(presenta)
 
 print(presenta.format(nombre,ciudad))
